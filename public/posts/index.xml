@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 	<channel>
 		<title>Posts on Digital Determination</title>
-		<link>https://DigitalDetermination.org/posts/</link>
+		<link>http://localhost:1313/posts/</link>
 		<description>Recent content in Posts on Digital Determination</description>
 		<generator>Hugo -- 0.143.1</generator>
 		<language>en-us</language>
 		<lastBuildDate>Thu, 13 Feb 2025 14:42:48 -0800</lastBuildDate>
-		<atom:link href="https://DigitalDetermination.org/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 		<item>
 			<title>Life Update: A Rough Start to the Year</title>
-			<link>https://DigitalDetermination.org/posts/life-update-a-rough-start-to-the-year/</link>
-			<pubDate>Thu, 13 Feb 2025 14:42:48 -0800</pubDate><guid>https://DigitalDetermination.org/posts/life-update-a-rough-start-to-the-year/</guid>
+			<link>http://localhost:1313/posts/life-update-a-rough-start-to-the-year/</link>
+			<pubDate>Thu, 13 Feb 2025 14:42:48 -0800</pubDate><guid>http://localhost:1313/posts/life-update-a-rough-start-to-the-year/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="life-update-a-rough-start-to-the-year">Life Update: A Rough Start to the Year<a href="#life-update-a-rough-start-to-the-year" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
@@ -117,8 +117,8 @@ One of them actually told me I was <strong>doing a good job.</strong></p>
 		
 		<item>
 			<title>Welcome</title>
-			<link>https://DigitalDetermination.org/posts/welcome/</link>
-			<pubDate>Tue, 11 Feb 2025 18:35:49 -0800</pubDate><guid>https://DigitalDetermination.org/posts/welcome/</guid>
+			<link>http://localhost:1313/posts/welcome/</link>
+			<pubDate>Tue, 11 Feb 2025 18:35:49 -0800</pubDate><guid>http://localhost:1313/posts/welcome/</guid>
 			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="welcome-to-digital-determination-">Welcome to <strong>Digital Determination</strong> 🚀<a href="#welcome-to-digital-determination-" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
       stroke-linecap="round" stroke-linejoin="round">
       <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
